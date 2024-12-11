@@ -12,13 +12,15 @@ All projects on this account are developed in my spare time. Warning: I don't ma
 
 [Simple Version Control](https://github.com/James231/Simple-Version-Control) - Use this if you are a developer and want to add "check for updates" features to your app. This application lets you generate JSON files containing version/changelog information. Simply upload them to a static file host. Then if using .NET, use the included library to perform a "check for updates" and/or receive changelog information about earlier/later releases.
 
-[Documentation Templater](https://github.com/James231/Documentation-Templater) - A tool for writing documentation for software. Using the default template your docs [will look like this](https://documentation-templater-sample.jam-es.com/templates.html), but it is fully customizable.
+[Documentation Templater](https://github.com/James231/Documentation-Templater) - A tool for writing documentation for software. Using the default template your docs [will look like this](https://documentation-templater-sample.jam-es.com/index.html), but it is fully customizable.
 
 [WebImageExtractor](https://github.com/James231/WebImageExtractor) - A .NET library for crawling websites and extracting images.
 
 [Terminals In Sublime Text](https://github.com/James231/Terminals-In-Sublime-Text) - [Sublime Text](https://www.sublimetext.com/3) configuration files providing a quick setup of the [Terminus](https://github.com/randy3k/Terminus) package. Allowing you to access terminals, and activate them with shortcuts.
 
 [Unity Video Editor Template](https://github.com/James231/Unity-Video-Editor-Template) - A Unity Game Engine Project (>2019.3) setup to allow for its use as a video editor. Well suited for making video animations, but can be a bit buggy as it is not what Unity was intended for. Includes the necessary scripts and editor extensions. Not maintained.
+
+[Google Apps Script - Useful Scripts](https://github.com/James231/GoogleAppScript-UsefulScripts) - Do you need a server to run a simple script, triggered by a timer or HTTP request? Would you like a small private or public database (actually a spreadsheet) with it? Automate sending emails? [Google Apps Script](https://developers.google.com/apps-script) is not particularly well-known, but amazingly provides all of this for free. This repo contains a bunch of scripts to help you get started.
 
 [GitHub Activity Art](https://github.com/James231/GitHub-Activity-Art) - Create a 7x52 pixel image, then display it as your "activity chart" on your GitHub profile page. Requires running the code daily to create such "activity".
 
