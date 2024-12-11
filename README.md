@@ -1,6 +1,6 @@
 Hi, I'm James.
 
-Links: [Website](https://jam-es.com) | [Contact Me](https://jam-es.com/#contact) | [Donate via PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MLD56V6HQWCKU&source=url)
+Links: [Website](https://jam-es.com) | [Contact Me](https://jam-es.com/#contact) | [Donate via PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MLD56V6HQWCKU&source=url) | [(older) Unity Assets](https://solutionstudios.jam-es.com/)
 
 All projects on this account are developed in my spare time. Warning: I don't maintain them all.
 
