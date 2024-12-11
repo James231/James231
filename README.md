@@ -24,6 +24,6 @@ All projects on this account are developed in my spare time. Warning: I don't ma
 
 [GitHub Activity Art](https://github.com/James231/GitHub-Activity-Art) - Create a 7x52 pixel image, then display it as your "activity chart" on your GitHub profile page. Requires running the code daily to create such "activity".
 
-[Basic Paint Program OpenGL](https://github.com/James231/Basic-Paint-Program-OpenGL) - An MS Paint like program written in C++ and OpenGL for univerity coursework.
+[Basic Paint Program OpenGL](https://github.com/James231/Basic-Paint-Program-OpenGL) - An MS Paint like program written in C++ and OpenGL for university coursework.
 
 ... and there are more if you want to dive deeper.
